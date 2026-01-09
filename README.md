@@ -12,12 +12,12 @@ Como caso de uso, el modelo permite **ordenar automáticamente una carpeta de im
 
 ## Estructura del Proyecto
 
-- `model.py` → definición de la arquitectura de la CNN  
-- `train.ipynb` → entrenamiento del modelo y sanity check  
-- `eval.ipynb` → evaluación final sobre un conjunto de test independiente  
-- `download_data.py` → descarga y preparación del dataset  
-- `.bat` scripts → automatización del setup y ejecución (Windows)
-
+- `model.py` ->  definición de la arquitectura de la CNN  
+- `train.ipynb` ->  entrenamiento del modelo y sanity check  
+- `eval.ipynb` ->  evaluación final sobre un conjunto de test independiente  
+- `download_data.py` ->  descarga y preparación del dataset  
+- `.bat` scripts ->  automatización del setup y ejecución (Windows)
+- `ModelHadle.py` ->  definicion de la clase "Class10" para uso practic
 ---
 
 ## Setup
@@ -34,7 +34,7 @@ El dataset utilizado es CIFAR-10, descargado automáticamente mediante el script
 
 ```bash
 call venv\Scripts\activate
-cd ./RedNeuronal/
+cd RedNeuronal
 python download_data.py
 ```
 
