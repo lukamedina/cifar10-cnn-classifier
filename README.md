@@ -17,7 +17,7 @@ Como caso de uso, el modelo permite **ordenar automáticamente una carpeta de im
 - `eval.ipynb` ->  evaluación final sobre un conjunto de test independiente  
 - `download_data.py` ->  descarga y preparación del dataset  
 - `.bat` scripts ->  automatización del setup y ejecución (Windows)
-- `handler.py` ->  definicion de la clase "Class10" para uso practic
+- `handler.py` ->  definicion de la clase "Class10" para uso practico
 ---
 
 ## Setup
