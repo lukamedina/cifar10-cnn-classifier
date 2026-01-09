@@ -1,0 +1,22 @@
+#La idea es ignorar datos copmo fotos
+RedNeuronal/TrainingData/
+RedNeuronal/Datos/
+
+#Cache
+__pycache__/
+
+#Libs 
+Lib/
+Include/
+
+#venv
+Scripts/
+
+#Share
+share/jupyter/
+share/man/
+
+.vscode/
+
+/RedNeuronal/testing_set
+/RedNeuronal/training_set
